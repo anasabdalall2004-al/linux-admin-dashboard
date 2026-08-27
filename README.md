@@ -20,3 +20,7 @@ chmod +x dashboard.sh
 ## Author
 
 Anas
+## LinkedIn Project Post
+
+Project post:
+https://www.linkedin.com/pulse/bash-scripting-project-anas-abd-alall-g8dpe
